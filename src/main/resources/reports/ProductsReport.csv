@@ -1,0 +1,17 @@
+Code,Name,Price,Quantity,Category
+1000,Mineral Water,3.5,7,0
+1001,Sprite,4,7,0
+1002,Coca Cola,3.5,7,0
+1003,Pepsi,3.5,7,0
+1004,Juice,4.5,7,0
+2000,Mars,2.5,7,1
+2001,M&M,2.5,7,1
+2002,Bounty,3,7,1
+2003,Snickers,3,7,1
+3000,Smiths,2,7,2
+3001,Pringles,3,7,2
+3002,Kettle,2.5,7,2
+3003,Thins,2.5,7,2
+4000,Mentos,2,7,3
+4001,Sour Patch,2,7,3
+4002,Skittles,2,6,3
